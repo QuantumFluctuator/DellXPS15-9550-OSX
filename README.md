@@ -1,7 +1,9 @@
 # Dell XPS 15 - 9550-OSX
-This contains the required files and a tutorial for the installation of OS X 11.1 on the Dell XPS 15 9550. The files and tutorials for 10.11up to 11.0 are in a different branch
-  
-Setup tested with the XPS15 containing Toshiba 512GB SSD, 16GB RAM and 4K Display as well as LiteON 512GB SSD, 8GB RAM and the FHD Display
+This contains the required files and a tutorial for the installation of macOS 12.X on the Dell XPS 15 9550. This fork changes the default WiFi adapter from Broadcom to Intel.
+
+All branches besides this one remain unchanged.
+
+Setup tested with the XPS15 containing Kingston 240GB SSD (with 1TB NVMe SSD containing OpenCore), 16GB RAM and 4K Touch Display.
   
 You can follow the guide to install Monterey on your own machine: [guide][1]
 
