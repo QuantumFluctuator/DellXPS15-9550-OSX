@@ -3,7 +3,7 @@ This contains the required files and a tutorial for the installation of macOS 12
 
 All branches besides this one remain unchanged.
 
-Setup tested with the XPS15 containing Kingston 240GB SSD (with 1TB NVMe SSD containing OpenCore), 16GB RAM and 4K Touch Display.
+Setup tested with the XPS15 containing Kingston 240GB SSD as macOS drive (with 1TB NVMe SSD containing OpenCore), 16GB RAM and 4K Touch Display.
   
 You can follow the guide to install Monterey on your own machine: [guide][1]
 
